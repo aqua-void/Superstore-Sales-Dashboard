@@ -15,11 +15,11 @@ Power BI dashboard analyzing retail sales performance - trends, top sub-categori
 
 - **Profit by category** → Technology is the most profitable category `($124K)` narrowly ahead of Furniture `($109K)` and Office Supplies `($106K)` - despite Chairs (Furniture) ranking #2 in sales, Furniture's profit contribution trails Technology, suggesting thinner margins on furniture items
 
-- **Sales & profit trend** → Revenue shows strong seasonal spikes (notably late 2018, peaking near $118K in a single period) with profit tracking well below sales throughout — margin compression is visible even during high-sales periods
+- **Sales & profit trend** → Revenue shows strong seasonal spikes (notably late 2018, peaking near $118K in a single period) with profit tracking well below sales throughout - margin compression is visible even during high-sales periods
   
 
 ## Note on Methodology
-- Profit margin (%) per category was not available/calculable from the fields in this dataset version — profit (absolute $) was used instead for the category comparison.
+- Profit margin (%) per category was not available/calculable from the fields in this dataset version - profit (absolute $) was used instead for the category comparison.
 
 
 ## Dashboard Preview
